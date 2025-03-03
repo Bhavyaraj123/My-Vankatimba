@@ -10,16 +10,15 @@ const Footer = () => {
 
         {/* Right Section - Village Details */}
         <div className="mt-4 md:mt-0">
-          <p className="text-sm">🏡 Vankatimba, Gujarat, India</p>
-          <p className="text-sm">📞 Contact: +91 000000000</p>
-          <a 
+          
+          {/* <a 
             href="https://www.google.com/maps/place/Jay+Khemas+Ma+Temple,Vankatimba/@23.6656521,73.4768807,17z"
             target="_blank"
             rel="noopener noreferrer"
-            className="text-blue-400 hover:underline text-sm"
+            className="text-white hover:underline text-sm"
           >
             📍 View on Google Maps
-          </a>
+          </a> */}
         </div>
 
       </div>
