@@ -54,7 +54,6 @@ const Timings = () => {
 
         {/* Video Section */}
         <div className="px-4 py-3">
-          <h3 className="text-lg font-bold mb-2">વિડિઓ</h3>
           <div className="aspect-w-16 aspect-h-9">
             <iframe
               className="w-full h-48 rounded-lg"
