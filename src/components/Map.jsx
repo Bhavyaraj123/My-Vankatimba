@@ -10,7 +10,7 @@ const ContactPage = () => {
         <div className="text-center md:text-left">
           <p className="mt-4 text-lg text-gray-700 font-semibold">🏡 ગામ: વાંકાટીંબા</p>
           <p className="mt-2 text-lg text-gray-700 font-semibold">📞 સંપર્ક: +91 000000000</p>
-          <p className="mt-2 text-md text-gray-600">🏛️ પ્રખ્યાત સ્થળ: જય ખેમાસ મા મંદિર</p>
+          <p className="mt-2 text-md text-gray-600">🏛️ પ્રખ્યાત સ્થળ: શ્રી ક્ષેમકલ્યાણી મા મંદિર</p>
           <p className="mt-2 text-md text-gray-600">👥 વસ્તી: અંદાજે 400+</p>
 
           <a
